@@ -24,6 +24,7 @@ jxRequirements:
     gitName: github
     gitServer: https://github.com
     provider: minikube
+    registry: 10.109.70.71
   environments:
   - key: dev
     owner: dbarroso
